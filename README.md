@@ -37,5 +37,5 @@ The robot is only for an educational project
     `python SpamerBot.py`</br></br>
  
 
-  <p align="center">The last update of the robot is on 27/11/2022, and from now on, no update will be published for this robot, and from now on, the robot needs to obtain an API-key from the textbelt.com site.</p>
+  <p align="center">The last update of the robot is on 27/11/2022, and from now on, no update will be published for this robot, and from now on, the robot needs to obtain an <b>API-key</b> from the <b>textbelt.com</b> site.</p>
   <b>Made by Ali Atabak (ReXo)</b> 
