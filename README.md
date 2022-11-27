@@ -28,7 +28,7 @@ The robot is only for an educational project
  
  - Then install the libraries in the requirements file
   
-    `pip install requirements`</br></br>
+    `pip install requests`</br></br>
  
   
   
